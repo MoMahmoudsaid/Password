@@ -3,7 +3,6 @@ from distutils.command.config import config
 import tkinter
 import random
 import string
-from tkinter.tix import ButtonBox
 pro = Tk()
 menubar = Menu(pro,tearoff=0)
 menubar.add_command(label="Open")
